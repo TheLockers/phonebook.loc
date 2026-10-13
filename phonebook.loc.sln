@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "phonebook.loc", "..\..\..\..\..\OSPanel\home\phonebook.loc\", "{F76E73AF-CCC9-3C4C-1553-2AF6A856C5B1}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_57951"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\OSPanel\home\phonebook.loc\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57951\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_57951"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\OSPanel\home\phonebook.loc\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57951\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "57951"
+		SlnRelativePath = "..\..\..\..\..\OSPanel\home\phonebook.loc\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F76E73AF-CCC9-3C4C-1553-2AF6A856C5B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76E73AF-CCC9-3C4C-1553-2AF6A856C5B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82E117CB-C627-4543-8B1F-9980EBB68CE9}
+	EndGlobalSection
+EndGlobal
